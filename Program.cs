@@ -16,7 +16,7 @@ namespace TestMaryBot
 {
     internal class Program
     {
-        private static readonly string BotApiKey = "7174422667:AAH8afrHy4E6OT-TUvZIavSF8xIgl03M3TI";
+        private static readonly string BotApiKey = "TOKEN";
         private static DatabaseManager manager = new DatabaseManager();
         private static KeyboardsMarkup? _markups;
         private static UserBase.User? user;
