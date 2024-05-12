@@ -13,7 +13,7 @@ namespace TestMaryBot
 {
     public class DatabaseManager
     {
-        private string connectionString = "Server=localhost;Port=3306;Database=testbot;Uid=root;Pwd=27032022Me0702;";
+        private string connectionString = "Server=localhost;Port=3306;Database=testbot;Uid=root;Pwd=************;";
         public bool CheckRecordExists(long id)
         {
             using (MySqlConnection connection = new MySqlConnection(connectionString))
