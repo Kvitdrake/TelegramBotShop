@@ -1,3 +1,3 @@
 # TelegramBotShop
-Shop for telegram channel Fiend.Magic
+Shop for telegram channel Fiend.Magic \n
 Later, there will be a guide to creating a dialog bot. For now, you can use the example.
